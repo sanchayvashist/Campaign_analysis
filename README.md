@@ -1,4 +1,4 @@
-# ML_project
+# Campaign Analysis
 
 Analyze dataset related to direct marketing campaign of financial company to create a ML model to predict whether s to predict if the client will subscribe (yes/no) to a term deposit.This will help us to look for strategies in order to improve future marketing campaigns for the bank.
 
